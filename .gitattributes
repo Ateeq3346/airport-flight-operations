@@ -1,0 +1,2 @@
+# GitHub Linguist: include SQL files in the repository language statistics
+*.sql linguist-detectable
